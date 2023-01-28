@@ -8,6 +8,18 @@
 
 Fig. 1
 
+Video: [Shelly Pro 4PM // How to Install & Use](https://www.youtube.com/watch?v=vZQEg2qjwRk)
+
+We follow the instructions as provided in above video:
+
+
+
+ADDITIONAL INFORMATION:
+
+Video: [How to start a Smart Home with Shelly Pro 4PM - Step by Step tutorial](https://www.youtube.com/watch?v=xbiQFFJl9A4)
+
+-- Official Installation Instructions --
+
 Connect the relay to the power grid and install it in the switchboard as shown in the scheme (fig. 1) and following the Safety Instructions. Before installing/mounting 
 the device, ensure that the grid is powered off (turned down breakers) and in compliance with the Safety Norms.
 
