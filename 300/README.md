@@ -2,7 +2,7 @@
 
 ## 100 - Installation
 
-Connect the relay to the power grid and install it in the switchboard as shown in the scheme (fig. 1) and following the Safety Instructions. Before installing/mounting 
+Connect the relay to the power grid and install it in the switchboard as shown in the scheme (fig. 1) and following the Safety Instructions. Before installing/mounting 
 the device, ensure that the grid is powered off (turned down breakers) and in compliance with the Safety Norms.
 
 The Shelly Pro 4PM smart relay by Allterco Robotics is intended to be mounted into a standard switchboard on DIN rail, next to the circuit breakers in order to control and 
@@ -19,9 +19,9 @@ For inductive appliances, those that cause voltage spikes during switching on: e
 
 **⚠ CAUTION!** Do not install the device at a place that is possible to get wet.
 
-**⚠ CAUTION!** Danger of electrocution. Mounting/ Installation of the Device to the power grid has to be performed with caution, by a qualified person (electrician).
+**⚠ CAUTION!** Danger of electrocution. Mounting/ Installation of the Device to the power grid has to be performed with caution, by a qualified person (electrician).
 
-**⚠ CAUTION!** Danger of electrocution. Mounting the Device to the power grid has to be performed with caution.
+**⚠ CAUTION!** Danger of electrocution. Mounting the Device to the power grid has to be performed with caution.
 
 **⚠ CAUTION!** Do not allow children to play with the button/switch connected to the Device. Keep the Devices for remote control of Shelly (mobile phones, tablets, PCs) away 
 from children.
