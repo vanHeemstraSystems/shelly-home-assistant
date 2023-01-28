@@ -2,6 +2,12 @@
 
 ## 100 - Installation
 
+**Schematics Shelly Pro 4 PM**
+
+![Schematics_Shelly_Pro_4_PM](https://user-images.githubusercontent.com/1499433/215257673-45718852-37a3-4548-8a2d-fc2dd3304a19.png)
+
+Fig. 1
+
 Connect the relay to the power grid and install it in the switchboard as shown in the scheme (fig. 1) and following the Safety Instructions. Before installing/mounting 
 the device, ensure that the grid is powered off (turned down breakers) and in compliance with the Safety Norms.
 
