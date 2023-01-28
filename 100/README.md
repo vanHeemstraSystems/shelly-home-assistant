@@ -51,5 +51,7 @@ Voor- en nadelen
 - [PDF	Shelly Device API (ENG)]()
 - [PDF	Shelly REST API (ENG)]()
 
-- Shelly finder windows
-- Shelly finder Mac OSX
+## ADDITIONAL
+
+- [Shelly finder windows](https://shelly.cloud/documents/device_finders/ShellyFinderWindows.zip)
+- [Shelly finder Mac OSX](https://shelly.cloud/documents/device_finders/ShellyFinderOSX.zip)
