@@ -8,15 +8,24 @@
 
 Fig. 1
 
-Video: [Shelly Pro 4PM // How to Install & Use](https://www.youtube.com/watch?v=vZQEg2qjwRk)
+Video: [How to start a Smart Home with Shelly Pro 4PM - Step by Step tutorial](https://www.youtube.com/watch?v=xbiQFFJl9A4)
 
 We follow the instructions as provided in above video:
 
+1) Remove the plastic covers (covering 04 03 L 02 01, and LAN N S4 S3 S2 S1) that protect the connectors, by means of a flat screwdriver.
+
+2) 
 
 
-ADDITIONAL INFORMATION:
 
-Video: [How to start a Smart Home with Shelly Pro 4PM - Step by Step tutorial](https://www.youtube.com/watch?v=xbiQFFJl9A4)
+
+MORE ...
+
+
+
+ADDITIONAL VIDEOS:
+
+Video: [Shelly Pro 4PM // How to Install & Use](https://www.youtube.com/watch?v=vZQEg2qjwRk)
 
 -- Official Installation Instructions --
 
