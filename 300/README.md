@@ -12,7 +12,7 @@ Video: [How to start a Smart Home with Shelly Pro 4PM - Step by Step tutorial](h
 
 We follow the instructions as provided in above video:
 
-1) Remove the plastic covers (covering 04 03 L 02 01, and LAN N S4 S3 S2 S1) that protect the connectors, by means of a flat screwdriver.
+1) Remove the plastic covers (covering 04 03 L 02 01, and LAN N S4 S3 S2 S1) from the Shelly Pro 4 PM, that protect the connectors, by means of a flat screwdriver.
 
 2) 
 
