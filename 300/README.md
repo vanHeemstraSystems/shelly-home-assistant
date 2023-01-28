@@ -20,6 +20,8 @@ We follow the instructions as provided in above video:
 
 4) Also remove any covering that prevents the Shelly Pro 4 PM from being visible after the cover has been put back in place.
 
+5) In case the metering cabinet does not have openings where we could lead the Ethernet cable through (to be connected with the WiFi router later on), look for pre-made cutouts that allow us to cutout such an opening by applying pressure. This way allow for the Ethernet cable to exit the metering cabinet.
+
 5) Place the Shelly Pro 4 PM onto the rails, with the text facing up, by slightly pullling the release down and clipping it onto the rails. The release should fasten the Shelly Pro 4 PM to the rails.
 
 6) ...
