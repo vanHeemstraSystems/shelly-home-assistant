@@ -1,6 +1,6 @@
 # 200 - Requirements
 
-- Shelly Pro 4 PM (Power Monitoring)
+- Shelly Pro 4 PM (Power Monitoring), see ordering information at https://www.shelly.cloud/shop/en/account
 
 
 ## SPECIFICATIES
