@@ -1,0 +1,9 @@
+# 100 - Introduction
+
+Automatiseer je groepenkast of stroomcircuits eenvoudig en goedkoop met deze slimme Shelly PRO 4PM WiFi en LAN DIN-Rail schakelaar. Schakel of automatiseer tot 4 groepen met je smartphone van waar ook ter wereld, of stel handige schakelschema's en scènes in via de gratis Shelly App. Geen dure Gateway of Hub nodig!
+
+Wanneer je bijvoorbeeld je verlichting en apparaten op één groep aansluit kun je deze met één druk op de knop aan/uit zetten, handig voor op kantoor. Vergeet nooit meer het licht uit te doen, voorkom lek-stroom van standby apparatuur, en bespaar op energie kosten. Via de stroommeting kun je het verbruik per groep in de gaten houden, en zelfs de maximale belasting per groep instellen en de Shelly PRO 4PM bij overbelasting de groep automatisch uitschakelt. Ook stembediening met Google Assistant of Amazon Alexa is mogelijk.
+
+Deze slimme WiFi en LAN DIN-Rail schakelaar kun je inbouwen in je groepenkast, en schakelt tot 4 groepen van maximaal 16A (4x3680W) per groep, totaal maximaal 40A. Op het 1.8 inch kleuren scherm kun je de status en het stroomverbruik van elke groep aflezen, en de PRO 4PM bedienen. Installeer de Shelly PRO 4PM en maak verbinding via Bluetooth voor eenvoudig koppelen aan de App. Klik in het menu op Add Device en volg de instructies. Daarna kun je de schakelaar draadloos bedienen met de App van waar ook ter wereld, opnemen in slimme scènes (scenario's) en timers instellen.
+
+De Shelly PRO 4PM heeft de nieuwe ESP32 processor aan boord, ondersteunt mjS scripting, en heeft tevens een lokale HTTP server (poort 80), welke fungeert als een simpele webpagina waarmee de gebruiker de basis parameters kan instellen. En zo kun je de Shelly PRO 4PM aansturen via web-requests en integreren met jouw domotica of smart home systeem,
