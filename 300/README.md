@@ -18,7 +18,7 @@ Before starting, wire check that the breakers are turned off and there is no vol
 sure that there is no voltage, you can start wiring the cables according to fig.1. Install a wire from O1, O2, O3, O4 - to the load and from the load to the Neutral. Install also 
 a wire from the Fuse to L.
 
-Connect the Neutral to the device. The last step is to install cables from the switches to the terminals S1, S2, S3 and S4.
+Connect the Neutral to the device. The last step is to install cables from the switches to the terminals S1, S2, S3 and S4.
 
 For inductive appliances, those that cause voltage spikes during switching on: electrical motors, as fans, vacuum cleaners and similar ones, RC snubber (0.1µF / 100Ω / 
 1/2W / 600V AC) should be wired between Output and Neutral of the circuit.
