@@ -45,11 +45,11 @@ Voor- en nadelen
 ## DOWNLOADS
 
 - [PDF	Shelly 4PRO Handleiding (ENG)](https://media.home2link.nl/Shelly/Shelly_PRO_4PM/shelly_pro_4pm_multi_language.pdf)
-- [PDF	Shelly PRO 4PM App (ENG)]()
-- [PDF	Fibaro, Homey, Home Assistant integratie]()
-- [PDF	Shelly Cloud API (ENG)]()
-- [PDF	Shelly Device API (ENG)]()
-- [PDF	Shelly REST API (ENG)]()
+- [PDF	Shelly PRO 4PM App (ENG)](https://media.home2link.nl/Shelly/Shelly_PRO_4PM/shelly_pro_4pm_app.pdf)
+- Email: [PDF	Fibaro, Homey, Home Assistant integratie](info@home2link.nl)
+- [PDF	Shelly Cloud API (ENG)](https://media.home2link.nl/Shelly/Shelly_Cloud_API.pdf)
+- [PDF	Shelly Device API (ENG)](https://media.home2link.nl/Shelly/Shelly_Device_API.pdf)
+- [PDF	Shelly REST API (ENG)](https://shelly-api-docs.shelly.cloud/#shelly-family-overview)
 
 ## ADDITIONAL
 
