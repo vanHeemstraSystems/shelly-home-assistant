@@ -11,3 +11,45 @@ De Shelly PRO 4PM heeft de nieuwe ESP32 processor aan boord, ondersteunt mjS scr
 Video: https://youtu.be/Wr63YhMD6zU
 
 Wil je liever niet gebruik maken van de gratis Shelly cloud service, maar toch je apparaten op afstand kunnen bedienen? Geen probleem. Shelly PRO 4PM ondersteund ook basic MQTT (Message Queue Telemetry Transport) voor betrouwbare verbindingen via een centrale bemiddelaar: de MQTT-broker. De betrokken apparaten communiceren alleen met de broker en kennen elkaar onderling verder niet. Ze hoeven de ip-adressen en de technische details van de andere deelnemers dus niet te weten. Veilig en betrouwbaar dus, met real-time monitoring en eenvoudige integratie. Wil je meer weten? Lees dan ons [Shelly WiFi Switch Blog](https://www.home2link.nl/blogs/home2link-smart-home-blog/shelly-wifi-switch/).
+
+
+## KENMERKEN
+
+Voor- en nadelen
+
+-	Open source
+-	ESP32 chip aan boord
+-	Werkt stand-alone via LAN of WiFi 2,4 Ghz
+-	Bluetooth voor eenvoudig koppelen
+-	Ingebouwde webserver
+-	Access Point en Client Mode
+-	Ondersteund HTTP en/of UDP
+-	Ondersteund mjS scripting
+-	110-240VAC
+-	Output max. 4x16A/3680W, 40A totaal
+-	Stroommeting, en 1.8 inch status kleuren scherm
+-	Beveiligd tegen overbelasting
+-	Beveiligd tegen oververhitting
+-	Beveiligd tegen spanningspieken
+-	Brandvertragend (flame retardant V0)
+-	Gratis Android of IOS Shelly Cloud App
+-	Werkt met MQTT
+-	Eenvoudig installeren
+-	Inbouw groepenkast, DIN-Rail
+-	Scene activatie via App
+-	OTA firmware updates
+-	2 Jaar Carry-in garantie
+-	Vereist elektrotechnische kennis voor inbouw in groepenkast
+ 
+
+## DOWNLOADS
+
+- [PDF	Shelly 4PRO Handleiding (ENG)](https://media.home2link.nl/Shelly/Shelly_PRO_4PM/shelly_pro_4pm_multi_language.pdf)
+- [PDF	Shelly PRO 4PM App (ENG)]()
+- [PDF	Fibaro, Homey, Home Assistant integratie]()
+- [PDF	Shelly Cloud API (ENG)]()
+- [PDF	Shelly Device API (ENG)]()
+- [PDF	Shelly REST API (ENG)]()
+
+- Shelly finder windows
+- Shelly finder Mac OSX
