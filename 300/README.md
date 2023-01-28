@@ -45,3 +45,22 @@ to the Device may damage the Device.
 **⚠ RECOMMENDATION!** Тhe Device may be connected to and may control electric circuits and appliances only if they comply with the respective standards and safety norms.
 
 **⚠ RECOMMENDATION!** The Device may be connected with solid single-core cables with increased heat resistance to insulation not less than PVC T105°C.
+
+## Accessing the Shelly Pro 4 PM
+
+Shelly® is a line of innovative Devices, which allow remote control of electric appliances through a mobile phone, tablet, PC, or home automation system. Shelly® 
+may work standalone on the local Wi-Fi network, without being managed by a home automation controller, or it can also work through cloud home automation services. 
+
+Shelly® devices can be accessed, controlled, and monitored remotely from any place the User has Internet connectivity, as long as the devices are connected to a Wi-Fi 
+router and the Internet.
+
+Shelly® has an integrated web server, through which the User may adjust, control and monitor the Device. The web interface is accessible at http://192.168.33.1
+
+Shelly® has two Wi-Fi modes - access Point (AP) and Client mode (CM). To operate in Client Mode, a Wi-Fi router must be located within the range of the Device. Shelly® devices can communicate directly with other Wi-Fi devices through HTTPS protocol. An API can be provided by the Manufacturer.
+
+Shelly® devices may be available for monitor and control even if the User is outside the range of the local Wi-Fi network, as long as the Wi-Fi router is connected to the Internet. The cloud function could be used, which is activated through the web server of the Device or through the settings in the Shelly Cloud mobile application.
+
+The User can register and access Shelly Cloud, using either Android or iOS mobile applications, or any internet browser and the website: https://my.Shelly.cloud/ 
+
+
+
