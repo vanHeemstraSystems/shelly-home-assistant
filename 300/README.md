@@ -60,7 +60,7 @@ Shelly® has two Wi-Fi modes - access Point (AP) and Client mode (CM). To operat
 
 Shelly® devices may be available for monitor and control even if the User is outside the range of the local Wi-Fi network, as long as the Wi-Fi router is connected to the Internet. The cloud function could be used, which is activated through the web server of the Device or through the settings in the Shelly Cloud mobile application.
 
-The User can register and access Shelly Cloud, using either Android or iOS mobile applications, or any internet browser and the website: https://my.Shelly.cloud/ 
+The User can register and access Shelly Cloud, using either Android or iOS mobile applications, or any internet browser and the website: https://my.Shelly.cloud/ 
 
 
 
