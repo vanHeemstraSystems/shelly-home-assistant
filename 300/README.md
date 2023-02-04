@@ -14,7 +14,7 @@ We follow the instructions as provided in above video:
 
 1) Remove the plastic covers (covering 04 03 L 02 01, and LAN N S4 S3 S2 S1) from the Shelly Pro 4 PM, that protect the connectors, by means of a flat screwdriver.
 
-2) **IMPORTANT**: Switch off the main power before you proceed so there is **no power** in the metering cabinet. In addition, turn all fuse breakers to **OFF** before removing the lid of the cabinet(s) that cover your DIN rails.
+2) **IMPORTANT**: Switch off the main power before you proceed so there is **no power** in the metering cabinet. In addition, turn all circuit breakers to **OFF** before removing the lid of the cabinet(s) that cover your DIN rails.
 
 3) Inside the metering cabinet in your home, remove the lid that covers your DIN rails, onto which the Shelly Pro 4 PM will be attached.
 
