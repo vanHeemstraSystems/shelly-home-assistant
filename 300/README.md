@@ -29,7 +29,7 @@ We follow the instructions as provided in above video:
 |Terminal ID|Wire (Color)|Connect TO|Comment|
 |--|--|--|--|
 |LAN|Ethernet Cable|Modem|To connect the Shelly to the local area network|
-|N - Neutral terminal|Neutral/Nuldraad/Neutre (Blue) Max. 9200 watt, 6mm2|Neutral cable in the metering cabinet, that lets the power go out.|
+|N - Neutral terminal|Neutral/Nuldraad/Neutre (**Blue**) Max. 9200 watt, 6mm2|Neutral cable in the metering cabinet, that lets the power go out.|
 
 MORE ...
 
