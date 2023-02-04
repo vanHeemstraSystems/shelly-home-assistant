@@ -30,6 +30,7 @@ We follow the instructions as provided in above video:
 |--|--|--|--|
 |LAN|Ethernet Cable|Modem|To connect the Shelly to the local area network|
 |N - Neutral terminal|Neutral/Nuldraad/Neutre (**Blue**) Max. 9200 watt, 6mm2|Neutral cable in the metering cabinet, that lets the power go out.|
+|S4 - Switch input terminal controlling 04|Live/Fasedraad/Fil de phase (**Brown**) Max. 9200 watt, 6mm2|Live cable in the metering cabinet, that carries the power into the Shelly Pro 4 PM|
 
 MORE ...
 
