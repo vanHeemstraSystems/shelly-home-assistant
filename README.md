@@ -7,9 +7,9 @@ See also https://nl.wikipedia.org/wiki/Installatiedraad or https://en.wikipedia.
 
 | Color of Wire | Purpose of Wire | Abbreviation of Purpose of Wire |
 | -- | -- | -- |
-| Brown | Phase | L |
-| Blue | Neutral | N |
-| Green & Yellow | Protective Earth | PE |
+| Brown | Phase | **L**(ive) |
+| Blue | Neutral | **N**(eutral) |
+| Green & Yellow | Protective Earth | **P**(rotective) **E**(arth) |
 
 ## 100 - Introduction
 
