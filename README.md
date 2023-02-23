@@ -3,6 +3,14 @@ shelly-home-assistant
 
 Based on "Shelly Pro 4 PM" at https://www.home2link.nl/shelly-pro-4pm.html
 
+See also https://nl.wikipedia.org/wiki/Installatiedraad or https://en.wikipedia.org/wiki/Electrical_wiring
+
+| Color of Wire | Purpose of Wire | Abbreviation of Purpose of Wire |
+| -- | -- | -- |
+| Brown | Phase | L |
+| Blue | Neutral | N |
+| Green & Yellow | Protective Earth | PE |
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
