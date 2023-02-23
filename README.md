@@ -9,7 +9,7 @@ See also https://nl.wikipedia.org/wiki/Installatiedraad or https://en.wikipedia.
 | -- | -- | -- |
 | Brown | Phase | **L**(ive) |
 | Blue | Neutral | **N**(eutral) |
-| Green & Yellow | Protective Earth | **P**(rotective) **E**(arth) |
+| Green & Yellow | Protective Earth / Ground | **P**(rotective) **E**(arth) |
 
 ## 100 - Introduction
 
