@@ -69,7 +69,7 @@ from children.
 **⚠ CAUTION!** Danger of electrocution. Even when the Device is turned off, it is possible to have voltage across its terminals. Every change in the connection of the terminals 
 has to be done after ensuring all local power is powered off/disconnected.
 
-**⚠ CAUTION!** Do not connect the Device to appliances exceeding the given max load!
+**⚠ CAUTION!** Do not connect the Device to appliances exceeding the given max load!
 
 **⚠ CAUTION!** Use the Device only with a power grid and appliances which comply with all applicable regulations. A short circuit in the power grid or any appliance connected 
 to the Device may damage the Device.
