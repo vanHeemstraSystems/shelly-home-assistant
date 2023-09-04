@@ -107,4 +107,8 @@ To see the Shelly Cloud website you are having an account for, visit https://con
 
 ![Shelly_Cloud](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/825b7e64-fc9d-4b08-aedf-58bc890dde24)
 
-Shelly Cloud
+Shelly Cloud - Dashboard
+
+![Shelly_Cloud_Consumption_Overall](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/ba8299df-b33b-4299-a462-86f007308380)
+
+Shelly Cloud - Consumption Overall
