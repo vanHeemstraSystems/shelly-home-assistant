@@ -104,3 +104,7 @@ Shelly® devices may be available for monitor and control even if the User is ou
 The User can register and access Shelly Cloud, using either Android or iOS mobile applications, or any internet browser and the website: https://my.Shelly.cloud/ 
 
 To see the Shelly Cloud website you are having an account for, visit https://home.shelly.cloud
+
+![Shelly_Cloud](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/dc1d6af2-3030-4f05-aced-fbc842e8619c)
+
+Shelly Cloud
