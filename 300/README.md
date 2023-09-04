@@ -105,6 +105,6 @@ The User can register and access Shelly Cloud, using either Android or iOS mobil
 
 To see the Shelly Cloud website you are having an account for, visit https://control.shelly.cloud (instead of the less feature-rich https://home.shelly.cloud).
 
-![Shelly_Cloud](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/dc1d6af2-3030-4f05-aced-fbc842e8619c)
+![Shelly_Cloud](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/825b7e64-fc9d-4b08-aedf-58bc890dde24)
 
 Shelly Cloud
