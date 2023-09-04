@@ -34,11 +34,14 @@ We follow the instructions as provided in above video:
 
 MORE ...
 
-![Schematics_Shelly_Pro_4_PM_Laboratory_Setting](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/b25d5a7f-48ba-4519-bfbe-32981c13500f)
-Shelly Pro 4 PM - Laboratory Setting
+![Schematics_Shelly_Pro_4_PM_Laboratory_Setting_With_Shelly](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/e0232c6d-6923-4153-aaeb-f8ea15e9a698)
+Shelly Pro 4 PM - Laboratory Setting With Shelly
 
-![Schematics_Shelly_Pro_4_PM_Breaker_Box_Setting](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/d8eef518-7723-4d90-a9ea-7455c8ca5a81)
-Shelly Pro 4 PM - Breaker Box Setting
+![Schematics_Shelly_Pro_4_PM_Breaker_Box_Setting_Without_Shelly](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/7a7d0fad-8737-4bb0-8106-8205e99385e5)
+Shelly Pro 4 PM - Breaker Box Setting Without Shelly
+
+![Schematics_Shelly_Pro_4_PM_Breaker_Box_Setting_With_Shelly](https://github.com/vanHeemstraSystems/shelly-home-assistant/assets/1499433/2c38f9d6-072d-49c8-8806-2eb919b27e9d)
+Shelly Pro 4 PM - Breaker Box Setting With Shelly
 
 ADDITIONAL VIDEOS:
 
